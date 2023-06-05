@@ -1,4 +1,4 @@
-<h1> To Do Liste</h1>
+<h1> To Do List</h1>
 
 > Status: Concluido
 
